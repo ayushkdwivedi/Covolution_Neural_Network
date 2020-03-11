@@ -1,0 +1,34 @@
+Image Reading Complete !
+The shape of read image is: (3, 32, 32)
+
+
+Demonstration of Padding Capability !!! (If intended for use)
+
+
+Padding is complete !
+
+
+Shape of input image =  (32, 32, 3)
+Shape of padded image = (36, 36, 3)
+
+Conv1 o/p:  (6, 28, 28)
+
+pool1 o/p:  (6, 14, 14)
+
+Conv2 o/p:  (16, 10, 10)
+
+pool2 o/p:  (16, 5, 5)
+
+Data sent to fully connected layer !!!
+
+Output Probabilities:  [[0.1000014 ]
+ [0.10000123]
+ [0.09999849]
+ [0.09999659]
+ [0.10000312]
+ [0.09999902]
+ [0.09999561]
+ [0.10000353]
+ [0.1000004 ]
+ [0.10000062]]
+
